@@ -7,8 +7,5 @@
 6. ketika bilangan (c) lebih besar dari bilangan (a) dan bilangan (b), maka akan muncul nilai (c).
 7. Nilai yang tercetak merupakan nilai terbesar, Berikut hasilnya :
 nilai (a) terbesar
-https://github.com/AhmadSobur110991/Labspy02/blob/master/Contoh%201%20Terbesar.png
 nilai (b) terbesar
-https://github.com/AhmadSobur110991/Labspy02/blob/master/Contoh%202%20Terbesar.png
 nilai (c) terbesar
-https://github.com/AhmadSobur110991/Labspy02/blob/master/Contoh%203%20Terbesar.png
