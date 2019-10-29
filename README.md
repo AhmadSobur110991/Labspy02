@@ -13,3 +13,5 @@ nilai (b) terbesar
 nilai (c) terbesar
 ![Contoh 3 Terbesar](https://user-images.githubusercontent.com/56815154/67788254-969d9100-faa4-11e9-9d55-4a8ca0a8ff2e.png)
 
+Untuk Flowchartnya seperti berikut :
+![Flow chart](https://user-images.githubusercontent.com/56815154/67788614-43780e00-faa5-11e9-91c5-40e6e496e983.png)
